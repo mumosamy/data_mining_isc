@@ -1,5 +1,5 @@
 flask
-gunicom
+gunicorn
 joblib
 numpy
-pandas
+
